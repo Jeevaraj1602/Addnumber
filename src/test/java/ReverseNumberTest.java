@@ -5,7 +5,7 @@ public class ReverseNumberTest {
 
     @Test
     public void testReverseNumber() {
-        assertEquals(4371, ReverseNumber.reverse(1234));
+        assertEquals(4321, ReverseNumber.reverse(1234));
     }
 
     @Test
